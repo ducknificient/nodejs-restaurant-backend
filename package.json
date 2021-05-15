@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-restaurant-backend",
+  "version": "1.0.0",
+  "description": "Simple Restaurant RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalengbekas/nodejs-restaurant-backend.git"
+  },
+  "author": "jeremysaputra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalengbekas/nodejs-restaurant-backend/issues"
+  },
+  "homepage": "https://github.com/kalengbekas/nodejs-restaurant-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.5",
+    "mysql": "^2.18.1"
+  }
+}
